@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning HTML/CSS/JavaScript
 - 😄 Pronouns: He/him
 <!--
 **ABDELLAHdev01/ABDELLAHdev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
