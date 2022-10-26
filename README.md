@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning HTML/CSS/JavaScript [YouCode.ma] 👨‍💻
+- 🌱 I’m currently learning HTML/CSS/JavaScript/Php/Sql [YouCode.ma] 👨‍💻
 - 😄 Pronouns: He/him
 - 📫 How to reach me : [ abdellahelghoulamdev@gmail.com ]
 - !I'll try to respond as soon as I can.
