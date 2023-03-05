@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning HTML/CSS/JavaScript-Vue.js/PHP-LARAVEL/SQL At [YouCode.ma] 👨‍💻
+- 🌱 I’m currently learning JavaScript-Vue.js/PHP-LARAVEL/ At [YouCode.ma] 👨‍💻
 - 😄 Pronouns: He/him
 - 📫 How to reach me : [ abdellahelghoulamdev@gmail.com ]
 - !I'll try to respond as soon as I can.
