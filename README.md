@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abdellahelghoulam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdellahelghoulam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uctjbnw2uhfcjh6pkxiuhuoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctjbnw2uhfcjh6pkxiuhuoa" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/bMEuVMw85v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[https://discord.gg/bMEuVMw85v](https://discord.gg/thfCVVX9)" height="30" width="40" /></a>
+<a href="https://discord.gg/bMEuVMw85v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[https://discord.gg/bMEuVMw85v](https://discord.gg/thfCVVX9)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
