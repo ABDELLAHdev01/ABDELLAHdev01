@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdellah EL GHOULAM</h1>
+<h1>Hi 👋, I'm Abdellah EL GHOULAM</h1>
 
-<h3 align="center">A passionate Programmer from Morocco</h3>
+<h3>A passionate Programmer from Morocco</h3>
 
 <center> <img style="center" src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif"> </center>
 
