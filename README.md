@@ -8,7 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdellahdev01" alt="abdellahdev01" /></a> </p>
 
-- 📫 How to reach me **abdellahelghoulamdev@gmail.com**
+- 🔭 I’m currently working on [YouCode](https://youcode.ma/)
+
+- 👨‍💻 All of my projects are available at [abdellahelghoulam.me](abdellahelghoulam.me)
+
+- 📫 How to reach me **Abdellahelghoulamdev@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/abdellahelghoulam/](https://www.linkedin.com/in/abdellahelghoulam/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
