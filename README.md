@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on Cegedim
 
-- 👨‍💻 All of my projects are available at [abdellahelghoulam.me](abdellahelghoulam.me)
-
 - 📫 How to reach me **Abdellahelghoulamdev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdellahelghoulam/](https://www.linkedin.com/in/abdellahelghoulam/)
